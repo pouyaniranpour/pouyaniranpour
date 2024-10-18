@@ -3,7 +3,6 @@ I have a bachelor's degree in Information Systems and am interested in the impro
 - 👀 I’m interested in software and web development
 - 🌱 I’m currently learning Next.js and Java
 - 📫 How to reach me: pouyani[at]missionreadyhq[dot]com
-- ⚡ Fun fact: I like to solve coding challeges on hackerrank.com and exercism.com
 
 ## Current Projects
 I am working on a mortgage calculator web app.
